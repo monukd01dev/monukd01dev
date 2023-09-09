@@ -29,6 +29,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=monukd01dev&show_icons=true&locale=en&layout=compact" alt="monukd01dev" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=monukd01dev&show_icons=true&locale=en" alt="monukd01dev" /></p>
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=monukd01dev&" alt="monukd01dev" /></p>
