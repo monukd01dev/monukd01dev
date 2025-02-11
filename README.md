@@ -48,7 +48,10 @@
       <img style="height: 40px; width: 40px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" alt="Node.js" />
     </a>
     <a style="margin-right: 15px;" href="https://github.com/monukd01dev" target="_blank" rel="noreferrer">
-      <img style="height: 40px; width: 40px;" src="https://svgshare.com/i/yVQ.svg" alt="Java" />
+      <img style="height: 40px; width: 40px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" alt="python" />
+    </a>
+    <a style="margin-right: 15px;" href="https://github.com/monukd01dev" target="_blank" rel="noreferrer">
+      <img style="height: 40px; width: 40px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" alt="java" />
     </a>
     <a style="margin-right: 15px;" href="#" target="_blank" rel="noreferrer">
       <img style="height: 40px; width: 40px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" />
